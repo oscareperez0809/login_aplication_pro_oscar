@@ -1,33 +1,32 @@
-# Instalación de Flutter en Visual Studio Code
+# 🦋 Instalación de Flutter en Visual Studio Code
 
-Este documento describe los pasos necesarios para instalar *Flutter* y configurarlo en *Visual Studio Code (VSC)*.
+Bienvenido 👋  
+Este repositorio explica paso a paso cómo instalar y configurar **Flutter** en **Visual Studio Code (VSC)**.  
+Ideal si quieres empezar a crear aplicaciones multiplataforma 🚀📱💻
 
 ---
 
 ## 📌 Requisitos previos
 
-- Tener instalado *Git*  
-  👉 [Descargar Git](https://git-scm.com/downloads)
+Antes de comenzar asegúrate de tener instalado:
 
-- Tener instalado *Visual Studio Code*  
-  👉 [Descargar VS Code](https://code.visualstudio.com/)
-
-- Contar con *Java JDK* (para Android Studio y compilación de apps)  
-  👉 [Descargar JDK](https://www.oracle.com/java/technologies/javase-downloads.html)
+- 🖥️ [Visual Studio Code](https://code.visualstudio.com/)  
+- 🔧 [Git](https://git-scm.com/downloads)  
+- 🦋 [Flutter SDK](https://docs.flutter.dev/get-started/install)
 
 ---
 
-## 🛠 Instalación de Flutter
+## 🛠️ Instalación de Flutter
 
-1. *Descargar Flutter SDK*  
-   👉 [Flutter SDK](https://docs.flutter.dev/get-started/install)
+1. 📥 **Descarga Flutter SDK**  
+   👉 [Descargar Flutter](https://docs.flutter.dev/get-started/install)
 
-2. *Extraer el archivo* en una ruta de tu preferencia (ejemplo: C:\src\flutter en Windows).
+2. 📂 **Extrae el archivo ZIP** en la ruta de tu preferencia  
+   (ejemplo: `C:\src\flutter` en Windows).
 
-3. *Configurar la variable de entorno*:
-   - Añadir C:\src\flutter\bin a la variable PATH.
+3. ⚙️ **Configura la variable de entorno**  
+   - Agrega `C:\src\flutter\bin` a la variable **PATH**.
 
-4. *Verificar instalación*  
-   Ejecuta en la terminal:
+4. 🩺 **Verifica la instalación** ejecutando en la terminal:
    ```bash
-   flutter doctor
+   flutter doctor
