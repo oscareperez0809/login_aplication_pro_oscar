@@ -1,32 +1,40 @@
-# 🦋 Instalación de Flutter en Visual Studio Code
-
-Bienvenido 👋  
-Este repositorio explica paso a paso cómo instalar y configurar **Flutter** en **Visual Studio Code (VSC)**.  
-Ideal si quieres empezar a crear aplicaciones multiplataforma 🚀📱💻
+Claro, aquí tienes tu README traducido al inglés:
 
 ---
 
-## 📌 Requisitos previos
+# 🦋 Flutter Installation in Visual Studio Code
 
-Antes de comenzar asegúrate de tener instalado:
-
-- 🖥️ [Visual Studio Code](https://code.visualstudio.com/)  
-- 🔧 [Git](https://git-scm.com/downloads)  
-- 🦋 [Flutter SDK](https://docs.flutter.dev/get-started/install)
+Welcome 👋
+This repository explains step by step how to install and set up **Flutter** in **Visual Studio Code (VSC)**.
+Perfect if you want to start creating cross-platform applications 🚀📱💻
 
 ---
 
-## 🛠️ Instalación de Flutter
+## 📌 Prerequisites
 
-1. 📥 **Descarga Flutter SDK**  
-   👉 [Descargar Flutter](https://docs.flutter.dev/get-started/install)
+Before starting, make sure you have installed:
 
-2. 📂 **Extrae el archivo ZIP** en la ruta de tu preferencia  
-   (ejemplo: `C:\src\flutter` en Windows).
+* 🖥️ [Visual Studio Code](https://code.visualstudio.com/)
+* 🔧 [Git](https://git-scm.com/downloads)
+* 🦋 [Flutter SDK](https://docs.flutter.dev/get-started/install)
 
-3. ⚙️ **Configura la variable de entorno**  
-   - Agrega `C:\src\flutter\bin` a la variable **PATH**.
+---
 
-4. 🩺 **Verifica la instalación** ejecutando en la terminal:
+## 🛠️ Flutter Installation
+
+1. 📥 **Download Flutter SDK**
+   👉 [Download Flutter](https://docs.flutter.dev/get-started/install)
+
+2. 📂 **Extract the ZIP file** to your preferred location
+   (example: `C:\src\flutter` on Windows).
+
+3. ⚙️ **Set up the environment variable**
+
+   * Add `C:\src\flutter\bin` to your **PATH** variable.
+
+4. 🩺 **Verify the installation** by running in the terminal:
+
    ```bash
    flutter doctor
+   ```
+
