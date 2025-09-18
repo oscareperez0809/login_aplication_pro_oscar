@@ -1,16 +1,37 @@
-# login_aplication_pro_oscar
+# 🦋 Flutter Installation in Visual Studio Code
 
-A new Flutter project.
+Welcome 👋
+This repository explains step by step how to install and set up **Flutter** in **Visual Studio Code (VSC)**.
+Perfect if you want to start creating cross-platform applications 🚀📱💻
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 📌 Prerequisites
 
-A few resources to get you started if this is your first Flutter project:
+Before starting, make sure you have installed:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- 🖥️ [Visual Studio Code](https://code.visualstudio.com/)
+- 🔧 [Git](https://git-scm.com/downloads)
+- 🦋 [Flutter SDK](https://docs.flutter.dev/get-started/install)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
+## 🛠️ Flutter Installation
+
+1. 📥 **Download Flutter SDK**
+   👉 [Download Flutter](https://docs.flutter.dev/get-started/install)
+
+2. 📂 **Extract the ZIP file** to your preferred location
+   (example: `C:\src\flutter` on Windows).
+
+3. ⚙️ **Set up the environment variable**
+
+   - Add `C:\src\flutter\bin` to your **PATH** variable.
+
+4. 🩺 **Verify the installation** by running in the terminal:
+
+   ```bash
+   flutter doctor
+   ```
+
+   [Download Video](assets/Flutter%20Demo%20-%20Google%20Chrome%202025-09-18%2016-23-14.mp4)
