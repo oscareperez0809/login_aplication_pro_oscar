@@ -1,7 +1,3 @@
-Claro, aquí tienes tu README traducido al inglés:
-
----
-
 # 🦋 Flutter Installation in Visual Studio Code
 
 Welcome 👋
